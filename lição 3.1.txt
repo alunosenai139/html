@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+        <li>
+            <h1>todos os animais</h1>
+
+            <h2></h2>
+            <img src="imagen lição 3.1/coelho/coelho.png" alt="coelho"/>
+
+            <h2></h2>
+            <img src="imagen lição 3.1/gato/gato.png" alt="gato"/>
+
+            <h2></h2>
+            <img src="imagen lição 3.1/cachorro/cachorro.png" alt="cachorro"/>
+
+            <h2></h2>
+            <img src="imagen lição 3.1/peixe/peixe.png" alt="peixe"/>
+
+            <h2></h2>
+            <img src="imagen lição 3.1/piupiu/piupiu.png    " alt="piupiu"/>
+        </li>
+    </ul>
+</body>
+</html>
